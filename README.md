@@ -89,9 +89,7 @@ Tenho experiência acadêmica prática com criação de páginas, integração c
 Busco minha primeira oportunidade como desenvolvedor para crescer profissionalmente e contribuir com projetos reais.
 
 
-<div align="center">
-  <img src="https://github.com/joao/joao/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+![Snake animation](https://github.com/joao3313/joao/blob/output/github-contribution-grid-snake.svg)
 
 
 
