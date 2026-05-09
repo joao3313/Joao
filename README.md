@@ -90,7 +90,7 @@ Busco minha primeira oportunidade como desenvolvedor para crescer profissionalme
 
 
 <div align="center">
-  <img src="https://github.com/joao3313/joao3313/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/joao/joao/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
